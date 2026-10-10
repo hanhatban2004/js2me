@@ -1,4 +1,4 @@
-JS2ME
+JS2ME HNB
 =============
 
 It's an implementation of Java ME in JavaScript for Firefox OS.
